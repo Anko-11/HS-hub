@@ -6,3 +6,6 @@ yarn
 
 # serve with hot reload at localhost:8800
 yarn dev
+
+# build for production with minification
+yarn build
